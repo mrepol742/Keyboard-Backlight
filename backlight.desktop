@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Backlight
+Exec=/home/mrepol742/backlight.sh
+Icon=system-run
+X-GNOME-Autostart-enabled=true
