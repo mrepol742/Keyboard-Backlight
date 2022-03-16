@@ -26,4 +26,6 @@ Copy the backlight.desktop to /etc/xdg/autostart/
 **DONE**
 
 # Note
-> it wont gonna work again if the keyboard id disconnected consider executing the backlight.sh or xmodmap -e 'add mod3 = Scroll_Lock' in terminal.
+> it wont gonna work again if the keyboard is disconnected consider executing the backlight.sh or xmodmap -e 'add mod3 = Scroll_Lock' in terminal.  <br> 
+> i will update this if i found a way to execute the backlight.sh whenever a new device attach <br>
+> im also a linux whos also facing this kind of issue
