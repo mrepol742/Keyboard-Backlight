@@ -1,4 +1,4 @@
-# Automatically turn on keyboard backup on startup in linux
+# Automatically turn on keyboard backlight on startup in linux
 
 ## Steps
 
